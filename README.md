@@ -1,4 +1,12 @@
 
+# Admin Panel Development
+
+Developed a basic admin panel that includes user registration, login, logout
+functionalities, and CRUD operations on users.
+
+
+
+
 ## Run Locally
 
 Clone the project
@@ -54,3 +62,10 @@ Now create a .env file in backend directory and place the fields in it
   JWT_SECRET=your_jwt_secret
   PORT=5000
 ```
+
+## Tech Stack
+
+**Client:** React, TailwindCSS
+
+**Server:** Node, Express, MONGODB
+
